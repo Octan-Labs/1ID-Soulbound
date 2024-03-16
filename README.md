@@ -1,6 +1,5 @@
 # Octan SoulBound Contracts
 
-The smart contract source code, written in Solidity, of the Octan 1ID Project has been verified by [Verichain](https://www.verichains.io/). You can access the verification report by following this [link](https://github.com/verichains/public-audit-reports/blob/main/Verichains%20Public%20Audit%20Report%20-%20Octan%20Soulbound%20Token%20-%20v1.1.pdf).
 
 ### Requirements
 
@@ -29,7 +28,4 @@ The smart contract source code, written in Solidity, of the Octan 1ID Project ha
 
 You can try to deploy these contracts on public networks. Example:
 
-- Deploy on BNB Smart Chain Testnet:
-```bash
-  yarn bsc_test scripts/deployment.ts
-```
+- Deploy on Linea Goerli Testnet
